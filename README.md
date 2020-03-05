@@ -1,7 +1,7 @@
 # Password-Generator-in-Javascript
 This is a password generator made in Html, CSS and JavaScript.
 
-<h2>Contents</hr>
+<h2>Contents</h2>
 <p>
 The password generator in JavaScript is composed of 3 pages, index.html, style.css and script.js. 
 </p>
