@@ -1,0 +1,82 @@
+
+/* We give the style for the body of the page  */
+body {
+    background-color: #333;
+    margin: 0;
+    min-height: 100vh;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* Styling the container where the the input controls are */
+.container {
+    background-color: rgb(187, 132, 31);
+    padding: 3rem;
+    border-radius: 1rem;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+/* Styling the form layout in form of a grid. */
+.form {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 1rem;
+    column-gap: 3rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title {
+    margin: 0;
+    text-align: center;
+}
+
+label {
+    font: bold;
+}
+
+.character-amount-container {
+    display: flex;
+    align-items: center;
+}
+
+.number-input {
+    width: 2rem;
+}
+
+.password-display {
+    background-color: antiquewhite;
+    color: rgb(38, 97, 46);
+    padding: 1rem;
+    border: 1px solid #333;
+    display: flex;
+    height: 3rem;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    word-break: break-all;
+    border-radius: .5rem;
+}
+
+.btn {
+    grid-column: span 2;
+    background-color: transparent;
+    border: 2px solid antiquewhite;
+    color: whitesmoke;
+    padding: .5rem 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.btn:hover {
+    background-color: #FFFFFF33;
+
+}
