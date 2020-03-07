@@ -1,4 +1,4 @@
-# Password-Generator-in-Javascript
+# Password Generator
 This is a password generator made in Html, CSS and JavaScript.
 
 <h2>Contents</h2>
@@ -12,6 +12,6 @@ The password generator in JavaScript is composed of 3 pages, index.html, style.c
 </p>
 <hr>
 Initial interface
-<img width="1026" alt="prompt" src="https://user-images.githubusercontent.com/54227198/75951763-f0a1dd80-5f00-11ea-81a8-b67e699855d8.png"
+<img width="1026" alt="prompt" src=""
 <hr>
 
