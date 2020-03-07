@@ -12,6 +12,7 @@ The password generator in JavaScript is composed of 3 pages, index.html, style.c
 </p>
 <hr>
 Initial interface
-<img width="1026" alt="prompt" src=""
+![app_default](https://user-images.githubusercontent.com/54227198/76142085-59828480-60be-11ea-9975-12df7c30fb9f.JPG)
+![password_generated](https://user-images.githubusercontent.com/54227198/76142086-5be4de80-60be-11ea-9745-50e668c38970.JPG)
 <hr>
 
