@@ -10,15 +10,17 @@ The password generator in JavaScript is composed of 3 pages, index.html, style.c
 <p>
   A user needs to create a password between 8 and 128 characters. These characters can be Upper or lower case, numbers & symbols, adding complexity to the password. The password should be random every time the generate password button is pressed.
 </p>
-<hr>
+
 #### Initial interface
+<hr>
+
 ![image](/app_default.JPG)
-<hr>
+
 #### Password Generated
-<hr>
+
 ![image](/password_generated.JPG)
 
-<hr>
+
 ### Licence
 <p>
 
