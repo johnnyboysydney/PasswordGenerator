@@ -12,9 +12,9 @@ The password generator in JavaScript is composed of 3 pages, index.html, style.c
 </p>
 <hr>
 <h4>Initial interface</h4>
-![image](./app_default.JPG)
+![image](/app_default.JPG?raw=true "Default Interface")
 <h4>Password Generated</h4>
-![image](./password_generated.JPG)
+![image](/password_generated.JPG?raw=true "Password Generated Interface")
 <hr>
 <h3>Licence</h3>
 <p>
