@@ -30,8 +30,6 @@ A user needs to create a password between 8 and 128 characters. These characters
 ### Licence
 <p>
 This project is licensed under the MIT License - see the <a href="/LICENCE.md">Link to the LICENCE</a> file for details
-<hr>
-
 </p>
 
 ### Link to the App
