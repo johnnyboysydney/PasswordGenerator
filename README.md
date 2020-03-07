@@ -13,14 +13,16 @@ The password generator in JavaScript is composed of 3 pages, index.html, style.c
 <hr>
 #### Initial interface
 ![image](/app_default.JPG)
-####Password Generated
+<hr>
+#### Password Generated
+<hr>
 ![image](/password_generated.JPG)
 
 <hr>
-###Licence
+### Licence
 <p>
 
 </p>
-## to the App
+## Link to the App
 <a href="https://johnnyboysydney.github.io/PasswordGenerator/.">Password Generator</a><hr>
 <hr>
